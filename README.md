@@ -18,5 +18,5 @@
 "ShowTime": "10",
 "Button": "Join Channel",
 "ButtonCancell": "Cancell",
-"Show": "on"
+"Show": "off"
 }
