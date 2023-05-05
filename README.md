@@ -1,10 +1,9 @@
 {
-"Title": "Vpn Shield | Free ⚡️",
-"Description": "سلام کاربر عزیز 🌹\n\n- این برنامه توسط کانال Vpn Shield مود و منتشر شده است.\n- برای دریافت آخرین نسخه فیلترشکن‌ها و تانل‌های پرسرعت مود شده متصل، حتما عضو کانال تلگرام ما شوید.\n\n✖ منبع تانل‌های پرسرعت ماییم 😎🤍 ",
-"Link": "tg://join?invite=GlJOVJoE6KAxMDNk",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "@Modify_BackUp",
+"Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
+"Link": "https://t.me/+1MvPB9Ks3mU2MGQ0",
+"ColorWave": "#14acdf",
+"ColorWaveTwo": "#53ddef",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -15,10 +14,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "1",
-"ShowTime": "999",
-"Button": "  عضویت فوری  ",
-"ButtonCancell": "‌ بعدا ‌",
-"Closure": "true",
+"MessageID": "100",
+"ShowTime": "10",
+"Button": "Join Channel",
+"ButtonCancell": "Cancell",
 "Show": "on"
 }
